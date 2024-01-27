@@ -47,6 +47,24 @@
     "__memory": "cpp",
     "locale": "cpp",
     "optional": "cpp",
-    "ratio": "cpp"
+    "ratio": "cpp",
+    "__config": "cpp",
+    "__debug": "cpp",
+    "__errc": "cpp",
+    "__hash_table": "cpp",
+    "__locale": "cpp",
+    "__mutex_base": "cpp",
+    "__split_buffer": "cpp",
+    "__threading_support": "cpp",
+    "__verbose_abort": "cpp",
+    "charconv": "cpp",
+    "complex": "cpp",
+    "cstring": "cpp",
+    "ctime": "cpp",
+    "ios": "cpp",
+    "mutex": "cpp",
+    "stack": "cpp",
+    "string_view": "cpp",
+    "variant": "cpp"
   }
 }
